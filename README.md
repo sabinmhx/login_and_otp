@@ -1,16 +1,18 @@
-# login_and_otp
+# Login and OTP
 
 Login and OTP View app in Flutter
 
-## Getting Started
+## Features:
+- UI for login and authentication screen
+- Input Field for Phone Number and its validation
+- Country Selector to select country with country code and country flag
+- Language Selector to select language to change app language
+- OTP Field to enter OTP
+- Resend OTP timer
+- Custom Keyboard to enter OTP
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p float="left">
+    <img alt="Login Page" src="https://raw.githubusercontent.com/sabinmhx/login_and_otp/master/screenshots/login_screen.png" width="200" height="400"/>
+    <img alt="Home Screen 2" src="https://raw.githubusercontent.com/sabinmhx/login_and_otp/master/screenshots/authentication_screen.png" width="200" height="400"/>
+</p>
